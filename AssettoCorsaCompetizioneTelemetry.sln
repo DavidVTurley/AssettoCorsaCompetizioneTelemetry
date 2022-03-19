@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.31911.260
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AssettoCorsaCompetizioneTelemetry", "AssettoCorsaCompetizioneTelemetry\AssettoCorsaCompetizioneTelemetry.csproj", "{57574C16-1841-439E-966C-14F51CC7A45B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{57574C16-1841-439E-966C-14F51CC7A45B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57574C16-1841-439E-966C-14F51CC7A45B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57574C16-1841-439E-966C-14F51CC7A45B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{57574C16-1841-439E-966C-14F51CC7A45B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {06F88680-A6E4-4CBB-8DAD-45A3B2015B11}
+	EndGlobalSection
+EndGlobal
