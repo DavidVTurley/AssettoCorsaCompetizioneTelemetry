@@ -1,0 +1,3 @@
+[submodule "AssettCorsaSharedMemory"]
+	path = AssettCorsaSharedMemory
+	url = https://github.com/DavidVTurley/AssettoCorsaTelemetry
